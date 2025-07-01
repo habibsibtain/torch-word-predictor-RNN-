@@ -13,7 +13,7 @@ This project demonstrates how to train a Recurrent Neural Network (RNN) using Py
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/habibsibtain/torch-word-predictor-RNN-.git)>
 cd rnn
 ```
 
